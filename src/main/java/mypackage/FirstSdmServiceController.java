@@ -14,7 +14,7 @@ class FirstSdmServiceController {
 
     @GetMapping("/")
     public String root() {
-        return "Hello, Krak! Add /hello/there to the URL to get a friendly reply.";
+        return "Hello, Krakoweww! Add /hello/there to the URL to get a friendly reply.";
     }
 
 }
